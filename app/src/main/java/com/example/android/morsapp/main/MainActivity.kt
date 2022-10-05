@@ -1,7 +1,8 @@
-package com.example.android.morsapp
+package com.example.android.morsapp.main
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.example.android.morsapp.R
 
 class MainActivity : AppCompatActivity() {
     
